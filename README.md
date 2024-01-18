@@ -14,3 +14,11 @@ The application allows users to select a playing card from a dropdown menu.
 It then calculates the probabilities that the next card drawn will have a higher, the same, or a lower value based on a standard 52-card deck. 
 This intuitive tool is designed for card game enthusiasts who wish to understand the probabilities in various game scenarios.
 
+## Disclaimer
+
+The HILO-probability-calculator is provided for educational and entertainment purposes only. 
+It is not intended for gambling or any form of betting. ;)
+The developers of this app make no representations or warranties about the accuracy or completeness of the app's content and are not liable for any decisions made based on this information. 
+Users should use their judgment and comply with the laws in their jurisdiction. 
+The developers do not endorse or promote gambling and are not responsible for any losses or damages incurred as a result of using this app.
+
